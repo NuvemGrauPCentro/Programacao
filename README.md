@@ -7,7 +7,7 @@
 Esta reservatório é dedicado aos alunos de programação da Grau Profissionalizante Fortaleza Centro
 
 -----
-MENU -> [Desenvolvido por](#desenvolvido-por) | [Finalidade](#finalidade) | [Cursos](#cursos) | [Programas](#programas) |[Estrutura de Pastas](#estrutura-de-pastas)
+MENU -> [Desenvolvido por](#desenvolvido-por) | [Finalidade](#finalidade) | [Cursos](#cursos) | [Programas](#programas) |[Estrutura de Pastas](#estrutura-de-pastas) | [Outros links](#links)
 
 -----
 
@@ -53,9 +53,9 @@ Lista de programas utilizados nos cursos
 <a name="links"></a>
 ## Outros links
 
-MAtriculece agora https://linklist.bio/SB9ZSzkcmT
+Matricule-se agora https://linklist.bio/SB9ZSzkcmT
 
-Fale pelo whatsApp https://linklist.bio/s9Hl5mI6ag
+Fale pelo WhatsApp https://linklist.bio/s9Hl5mI6ag
 
 Facebook https://linklist.bio/BjUffDfvWD
 
