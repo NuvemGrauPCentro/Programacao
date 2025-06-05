@@ -7,18 +7,21 @@
 Esta reservatório é dedicado aos alunos de programação da Grau Profissionalizante Fortaleza Centro
 
 -----
-
+<div align="center">
 MENU -> [Desenvolvido por](#desenvolvido-por) | [Finalidade](#finalidade) | [Cursos](#cursos) | [Estrutura de Pastas](#estrutura-de-pastas)
+</div>
 
 -----
 
 <a name="desenvolvido-por"></a>
 ## Desenvovido pela equipe de TI da Grau Técnico Centro Fortaleza:
+<div align="center">
 - Raimundo Mário
 - André Fernandes
 - Queive Gomes
 - Gabriel Dias
 <center><img src="_assets/equipe_ti.png" alt="Texto Alternativo" width="200px"></center>
+</div>
 
 <a name="finalidade"></a>
 ## Finalidade
