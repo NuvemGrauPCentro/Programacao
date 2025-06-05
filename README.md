@@ -1,5 +1,5 @@
 <div align="center">
-<img src="_assets/logo.svg" alt="Texto Alternativo" width="200px">
+<img src="_assets_/logo.svg" alt="Texto Alternativo" width="200px">
 </div>
 
 # Programação
@@ -19,7 +19,7 @@ MENU -> [Desenvolvido por](#desenvolvido-por) | [Finalidade](#finalidade) | [Cur
 - Queive Gomes
 - Gabriel Dias
 <div align="center">
-<img src="_assets/equipe_ti.png" alt="Texto Alternativo" width="200px">
+<img src="_assets_/equipe_ti.png" alt="Texto Alternativo" width="200px">
 </div>
 
 <a name="finalidade"></a>
@@ -34,11 +34,10 @@ Unificar conteúdo para os alunos Grau Profissionalizantes da unidade Centro For
 - [JavaScript](/JavaScript/)
 - [Python](/Python/)
 
-
 <a name="programas"></a>
 ## Programas
 Lista de programas utilizados nos cursos
-- Visualg [Download](./_assets/visualg3.0.7.rar)
+- Visualg [Download](./_assets_/visualg3.0.7.rar)
 - Notepad++ [Download](https://notepad-plus-plus.org/downloads)
 - Visual Studio Code (VSCODE) [Download](https://code.visualstudio.com/download)
 
