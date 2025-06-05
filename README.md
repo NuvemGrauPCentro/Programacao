@@ -56,3 +56,7 @@ Lista de programas utilizados nos cursos
 MAtriculece agora https://linklist.bio/SB9ZSzkcmT
 
 Fale pelo whatsApp https://linklist.bio/s9Hl5mI6ag
+
+Facebook https://linklist.bio/BjUffDfvWD
+
+Site oficial https://linklist.bio/L6TWQ2vgcJ
