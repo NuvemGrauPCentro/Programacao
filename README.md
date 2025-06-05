@@ -45,23 +45,19 @@ Lista de programas utilizados nos cursos
 ## Estrutura de pastas
 
 ```
-\CSS                    (Alguns arquivos voltados para o curso de CSS)
-\HTML                   (Alguns arquivos voltados para o curso de HTML)
-\JavaScript             (Alguns arquivos voltados para o curso de JavaScript)
-\Lógica de Programação  (Alguns arquivos voltados para o curso de Lógica de Programação)
-\Python                 (Alguns arquivos voltados para o curso de Python)
-\_assets_               (Arquivos utilizados no Github)
+\CSS                    (Curso de CSS)
+\HTML                   (Curso de HTML)
+\JavaScript             (Curso de JavaScript)
+\Lógica de Programação  (Curso de Lógica de Programação)
+\Python                 (Curso de Python)
+\_assets_               (Arquivos utilizados neste reservatório do Github)
 \_Livros_               (Alguns livro para aprofundar e acessentar seus estudos)
-
 ```
 
 <a name="links"></a>
 ## Outros links
 
 Matricule-se agora https://linklist.bio/SB9ZSzkcmT
-
 Fale pelo WhatsApp https://linklist.bio/s9Hl5mI6ag
-
 Facebook https://linklist.bio/BjUffDfvWD
-
 Site oficial https://linklist.bio/L6TWQ2vgcJ
