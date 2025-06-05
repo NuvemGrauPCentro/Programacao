@@ -2,6 +2,8 @@
 
 # Programação
 
+### Página dedicada para os alunos de programação da Grau Profissionalizante Fortaleza Centro
+
 -----
 
 MENU -> [Desenvolvido por](#desenvolvido-por) | [Finalidade](#finalidade) | [Cursos](#cursos) | [Estrutura de Pastas](#estrutura-de-pastas)
