@@ -38,9 +38,9 @@ Unificar conteúdo para os alunos Grau Profissionalizantes da unidade Centro For
 <a name="programas"></a>
 ## Programas
 Lista de programas utilizados nos cursos
-- Visualg
-- Notepad++
-- Visual Studio Code (VSCODE)
+- Visualg [Download](./_assets/visualg3.0.7.rar)
+- Notepad++ [Download](https://notepad-plus-plus.org/downloads)
+- Visual Studio Code (VSCODE) [Download](https://code.visualstudio.com/download)
 
 <a name="estrutura-de-pastas"></a>
 ## Estrutura de pastas
