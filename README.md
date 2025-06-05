@@ -1,7 +1,7 @@
 # Programacao
 Programacao
 
-<img src="img/logo.svg" alt="Texto Alternativo" width="200px">
+<img src="_assets/logo.svg" alt="Texto Alternativo" width="200px">
 
 # Home Page Grau Centro
 
