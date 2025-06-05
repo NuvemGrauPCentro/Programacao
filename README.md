@@ -19,7 +19,7 @@ MENU -> [Desenvolvido por](#desenvolvido-por) | [Finalidade](#finalidade) | [Cur
 - Queive Gomes
 - Gabriel Dias
 <div align="center">
-<img src="_assets_/equipe_ti.png" alt="Texto Alternativo">
+<img src="_assets_/equipe_ti.png" alt="Texto Alternativo" width="400px">
 </div>
 
 <a name="finalidade"></a>
