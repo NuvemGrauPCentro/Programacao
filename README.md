@@ -2,7 +2,7 @@
 
 # Programação
 
-### Página dedicada para os alunos de programação da Grau Profissionalizante Fortaleza Centro
+Página dedicada para os alunos de programação da Grau Profissionalizante Fortaleza Centro
 
 -----
 
