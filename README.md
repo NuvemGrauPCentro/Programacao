@@ -35,8 +35,12 @@ Unificar conteúdo para os alunos Grau Profissionalizantes da unidade Centro For
 - Python
 
 
-## Estrutura de pastas
-asdas
+<a name="programas"></a>
+## Programas
+Lista de programas utilizados nos cursos
+- Visualg
+- Notepad++
+- Visual Studio Code (VSCODE)
 
 <a name="estrutura-de-pastas"></a>
 ## Estrutura de pastas
