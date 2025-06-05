@@ -7,9 +7,7 @@
 Esta reservatório é dedicado aos alunos de programação da Grau Profissionalizante Fortaleza Centro
 
 -----
-<div align="center">
 MENU -> [Desenvolvido por](#desenvolvido-por) | [Finalidade](#finalidade) | [Cursos](#cursos) | [Estrutura de Pastas](#estrutura-de-pastas)
-</div>
 
 -----
 
