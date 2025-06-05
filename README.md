@@ -49,3 +49,10 @@ Lista de programas utilizados nos cursos
 \_assets  (Arquivos utilizados no Github)
 
 ```
+
+<a name="links"></a>
+## Outros links
+
+MAtriculece agora https://linklist.bio/SB9ZSzkcmT
+
+Fale pelo whatsApp https://linklist.bio/s9Hl5mI6ag
