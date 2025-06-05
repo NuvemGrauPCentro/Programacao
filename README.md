@@ -2,7 +2,7 @@
 
 # Programação
 
-Página dedicada para os alunos de programação da Grau Profissionalizante Fortaleza Centro
+Esta reservatório é dedicado aos alunos de programação da Grau Profissionalizante Fortaleza Centro
 
 -----
 
@@ -24,11 +24,11 @@ Unificar conteúdo para os alunos Grau Profissionalizantes da unidade Centro For
 
 <a name="cursos"></a>
 ## Cursos
-> Lógica de Programação
-> HTML
-> CSS
-> JavaScript
-> Python
+- Lógica de Programação
+- HTML
+- CSS
+- JavaScript
+- Python
 
 <a name="estrutura-de-pastas"></a>
 ## Estrutura de pastas
