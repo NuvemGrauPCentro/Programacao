@@ -28,11 +28,11 @@ Unificar conteúdo para os alunos Grau Profissionalizantes da unidade Centro For
 
 <a name="cursos"></a>
 ## Cursos
-- [Lógica de Programação](./HTML)
-- HTML
-- CSS
-- JavaScript
-- Python
+- [Lógica de Programação](/Lógica%20de%20Programação/)
+- [HTML](/HTML/)
+- [CSS](/CSS/)
+- [JavaScript](/JavaScript/)
+- [Python](/Python/)
 
 
 <a name="programas"></a>
