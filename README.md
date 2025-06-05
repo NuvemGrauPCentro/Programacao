@@ -34,10 +34,14 @@ Unificar conteúdo para os alunos Grau Profissionalizantes da unidade Centro For
 - JavaScript
 - Python
 
+
+## Estrutura de pastas
+asdas
+
 <a name="estrutura-de-pastas"></a>
 ## Estrutura de pastas
 
 ```
-\_assets  (Arquivos do tipo CSS, Bootstrap e Animate)
+\_assets  (Arquivos utilizados no Github)
 
 ```
