@@ -46,8 +46,8 @@ Lista de programas utilizados nos cursos
 ## Estrutura de pastas
 
 ```
-\_assets    (Arquivos utilizados no Github)
-\_Livros    (Alguns livro para aprofundar e acessentar seus estudos)
+\_assets_    (Arquivos utilizados no Github)
+\_Livros_    (Alguns livro para aprofundar e acessentar seus estudos)
 \CSS        (Alguns arquivos voltados para o curso de CSS)
 \HTML       (Alguns arquivos voltados para o curso de HTML)
 \JavaScript (Alguns arquivos voltados para o curso de JavaScript)
