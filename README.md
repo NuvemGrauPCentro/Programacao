@@ -1,44 +1,37 @@
-# Programacao
-Programacao
-
 <img src="_assets/logo.svg" alt="Texto Alternativo" width="200px">
 
-# Home Page Grau Centro
+# Programação
 
 -----
 
-MENU -> [Desenvolvido por](#desenvolvido-por) | [Finalidade](#finalidade) | [Tecnologia](#tecnologia) | [Estrutura de Pastas](#estrutura-de-pastas) | [Utilização](#utilizacao)
+MENU -> [Desenvolvido por](#desenvolvido-por) | [Finalidade](#finalidade) | [Cursos](#cursos) | [Estrutura de Pastas](#estrutura-de-pastas)
 
 -----
 
 <a name="desenvolvido-por"></a>
-## Desenvovido por:
-> André Fernandes (andffbr@gmail.com)
+## Desenvovido pela equipe de TI da Grau Técnico Centro Fortaleza:
+> Raimundo Mário
+> Gabriel Dias
+> André Fernandes
+> Queive Gomes
+<img src="_assets/equipe_ti.png" alt="Texto Alternativo" width="200px">
 
 <a name="finalidade"></a>
 ## Finalidade
-Esta página foi desenvolvida para ser usada como página inicial (Home Page) nos computadores da rede local da empresa, Grau Técnico Centro Fortaleza
+Unificar conteúdo para os alunos Grau Profissionalizantes da unidade Centro Fortaleza
 
-<a name="tecnologia"></a>
-## Tecnologia
-Foi utilizado a linguagem **HTML** e **CSS** com o framework **Bootstrap** e **Animate.css**
+<a name="cursos"></a>
+## Cursos
+> Lógica de Programação
+> HTML
+> CSS
+> JavaScript
+> Python
 
 <a name="estrutura-de-pastas"></a>
 ## Estrutura de pastas
 
 ```
-\css      (Arquivos do tipo CSS, Bootstrap e Animate)
-\img      (imagens utilizadas do tipo PNG, JPG, SVG, ICO)
-\img\func (Pasta com as fotos dos funcionários)
-\js       (Arquivos **Java Script** utilizados no projeto)
-```
-<a name="utilizacao"></a>
-## Utilização
-A pasta é disponibilizada na rede local com um compartilhamento oculto no computador **LABSERVIDOR**
+\_assets  (Arquivos do tipo CSS, Bootstrap e Animate)
 
-No navegador é configurado o caminho diretamente para o arquivo **INDEX.HTML**
-
-Copie o link abaixo e cole no navegador
-```
-\\labservidor\HomePageGrauCentro$\index.html
 ```
