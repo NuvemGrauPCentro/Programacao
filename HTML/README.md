@@ -1,3 +1,6 @@
+<div align="center">
+<img src="./_assets_/logo_html5.png" alt="Texto Alternativo" width="200px">
+</div>
 
 ## HTML
 
