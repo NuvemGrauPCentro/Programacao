@@ -1,4 +1,6 @@
+<div align="center">
 <img src="_assets/logo.svg" alt="Texto Alternativo" width="200px">
+</div>
 
 # Programação
 
