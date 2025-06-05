@@ -57,10 +57,7 @@ Lista de programas utilizados nos cursos
 <a name="links"></a>
 ## Outros links
 
-Matricule-se agora https://linklist.bio/SB9ZSzkcmT
-
-Fale pelo WhatsApp https://linklist.bio/s9Hl5mI6ag
-
-Facebook https://linklist.bio/BjUffDfvWD
-
-Site oficial https://linklist.bio/L6TWQ2vgcJ
+- Matricule-se agora https://linklist.bio/SB9ZSzkcmT
+- Fale pelo WhatsApp https://linklist.bio/s9Hl5mI6ag
+- Facebook https://linklist.bio/BjUffDfvWD
+- Site oficial https://linklist.bio/L6TWQ2vgcJ
