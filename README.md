@@ -12,13 +12,13 @@ MENU -> [Desenvolvido por](#desenvolvido-por) | [Finalidade](#finalidade) | [Cur
 -----
 
 <a name="desenvolvido-por"></a>
-## Desenvovido pela equipe de TI da Grau Técnico Centro Fortaleza:
+## Desenvovido por:
 
 - Raimundo Mário
 - André Fernandes
 - Queive Gomes
 - Gabriel Dias
-<div align="center">
+<div align="right">
 <img src="_assets_/equipe_ti.png" alt="Texto Alternativo" width="400px">
 </div>
 
