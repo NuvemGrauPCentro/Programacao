@@ -12,27 +12,30 @@ MENU -> [Desenvolvido por](#desenvolvido-por) | [Finalidade](#finalidade) | [Cur
 -----
 
 <a name="desenvolvido-por"></a>
-## Desenvovido por:
+## Desenvolvido por:
 
 - Raimundo Mário
 - André Fernandes
 - Queive Gomes
 - Gabriel Dias
-<div align="right" style="float: right;">
+<div align="center">
 <img src="_assets_/equipe_ti.png" alt="Texto Alternativo" width="400px">
 </div>
 
 <a name="finalidade"></a>
 ## Finalidade
-Unificar conteúdo para os alunos Grau Profissionalizantes da unidade Centro Fortaleza
+Unificar conteúdo para os alunos Grau Profissionalizantes da unidade Centro Fortaleza do tipo:
+- Exemplos
+- Livros
+- Tutoriais
 
 <a name="cursos"></a>
 ## Cursos
-- [Lógica de Programação](/Lógica%20de%20Programação/)
+- [Lógica de Programação](/LÓGICA%20DE%20PROGRAMAÇÃO/)
 - [HTML](/HTML/)
 - [CSS](/CSS/)
-- [JavaScript](/JavaScript/)
-- [Python](/Python/)
+- [JavaScript](/JAVASCRIPT/)
+- [Python](/PYTHON/)
 
 <a name="programas"></a>
 ## Programas
