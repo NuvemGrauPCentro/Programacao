@@ -18,7 +18,7 @@ MENU -> [Desenvolvido por](#desenvolvido-por) | [Finalidade](#finalidade) | [Cur
 - André Fernandes
 - Queive Gomes
 - Gabriel Dias
-<div align="right">
+<div align="right" style="float: right;">
 <img src="_assets_/equipe_ti.png" alt="Texto Alternativo" width="400px">
 </div>
 
