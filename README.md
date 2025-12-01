@@ -14,7 +14,7 @@ MENU -> [Desenvolvido por](#desenvolvido-por) | [Finalidade](#finalidade) | [Cur
 <a name="desenvolvido-por"></a>
 ## Desenvolvido por:
 
-- Raimundo Mário2
+- Raimundo Mário
 - André Fernandes
 - Queive Gomes
 - Gabriel Dias
